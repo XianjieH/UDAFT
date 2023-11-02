@@ -1,6 +1,6 @@
 Resources
 
-● Training pipelines.
+● Training pipelines
 
 Training pipelines for underwater image enhancement on PyTorch.
 
